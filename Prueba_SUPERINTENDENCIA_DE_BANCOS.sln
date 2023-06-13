@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba_SUPERINTENDENCIA_DE_BANCOS", "Prueba_SUPERINTENDENCIA_DE_BANCOS\Prueba_SUPERINTENDENCIA_DE_BANCOS.csproj", "{96194F42-1215-44DE-88C8-D786E55E5647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_SUPERINTENDENCIA_DE_BANCOS", "API_SUPERINTENDENCIA_DE_BANCOS\API_SUPERINTENDENCIA_DE_BANCOS.csproj", "{3031C179-CA1C-4BA8-B5A8-444DD6ADC347}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96194F42-1215-44DE-88C8-D786E55E5647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96194F42-1215-44DE-88C8-D786E55E5647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96194F42-1215-44DE-88C8-D786E55E5647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96194F42-1215-44DE-88C8-D786E55E5647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3031C179-CA1C-4BA8-B5A8-444DD6ADC347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3031C179-CA1C-4BA8-B5A8-444DD6ADC347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3031C179-CA1C-4BA8-B5A8-444DD6ADC347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3031C179-CA1C-4BA8-B5A8-444DD6ADC347}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD5AA10C-631B-4BFD-BC9E-9D2E4CE9FA47}
+	EndGlobalSection
+EndGlobal
